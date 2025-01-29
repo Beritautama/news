@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: 
+
+Sitemap: https://beritautama.github.io/news/sitemap.xml
